@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CakeFactory.App/CakeFactory.App.csproj" />
+  <Project Path="CakeFactory.Data/CakeFactory.Data.csproj" />
+</Solution>
